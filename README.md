@@ -14,7 +14,7 @@ I'm a Frontend Developer working with Angular, TypeScript, React and Redux to bu
 ![RxJS](https://img.shields.io/badge/RxJS-B7178C?logo=reactivex&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
-![Angular Material](https://img.shields.io/badge/Angular%20Material-757575?logo=angular-material&logoColor=white)
+![Angular Material](https://img.shields.io/badge/Angular%20Material-757575?logo=angular&logoColor=white)
 ![PrimeNG](https://img.shields.io/badge/PrimeNG-DD0031?logo=primeng&logoColor=white)
 
 ## Featured Projects
