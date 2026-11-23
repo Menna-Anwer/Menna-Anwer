@@ -19,12 +19,8 @@ I'm a Frontend Developer working with Angular, TypeScript, React and Redux to bu
 
 ## Featured Projects
 
-- **[Ala Mahl (على مهل)](https://github.com/Menna-Anwer/ala-mahl)**: Arabic-first study planner for organizing topics, sessions, and review notes. Angular 21, Angular Material, Bootstrap, JSON Server mock backend, unit tests included.
-- **[Kitchen Orders Board](https://github.com/Menna-Anwer/kitchen-orders-board)**: Angular app for managing kitchen orders, backed by JSON Server. [Live demo](https://kitchen-orders-board-lyart.vercel.app)
-- **[Angular Role-Based Dashboard](https://github.com/Menna-Anwer/Angular-Role-Based-Dashboard)**: Angular 21 demo with Signals, PrimeNG, and REST API integration. Views adapt to the selected role.
-- **[Angular Freelance Task](https://github.com/Menna-Anwer/AngularFreelanceTask)**: Angular 16 owner-management interface with Angular Material, reactive forms, table filtering, and REST API integration.
-- **[E-Commerce React App](https://github.com/Menna-Anwer/e-commerce-react-app)**: React storefront with product browsing and cart flow.
-- **[ITI Graduation Project](https://github.com/Menna-Anwer/ITI_graduation_project_react)**: React graduation project built collaboratively at ITI.
+- **[Ala Mahl (على مهل)](https://github.com/Menna-Anwer/ala-mahl)**: Arabic-first study planner built with Angular 21. Organizes topics, study sessions and review points in a fully RTL, mobile-friendly interface. Standalone components with Angular Material and Bootstrap RTL, shared form controls, custom pipes and directives, 11 unit tests, and a JSON Server mock backend.
+- **[Kitchen Orders Board](https://github.com/Menna-Anwer/kitchen-orders-board)**: Angular app for managing kitchen orders from new to ready, with price calculation per order type (service and VAT). Standalone components in strict mode, backed by JSON Server, with unit tests. [Live demo](https://kitchen-orders-board-lyart.vercel.app)
 
 ## Connect
 
