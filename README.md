@@ -1,6 +1,6 @@
 # Hi, I'm Menna Anwer
 
-Frontend developer focused on **Angular**, building responsive web interfaces with TypeScript. I also work with **React** and **Redux**, and I'm currently exploring AI.
+I'm a Frontend Developer working with Angular, TypeScript, React and Redux to build responsive web applications. My work includes reusable components, API integration and application state management. I enjoy turning requirements into practical interfaces and developing my skills through hands-on projects and continuous learning.
 
 - Based in Egypt, open to frontend roles (remote, hybrid, or onsite in Cairo/Giza)
 
@@ -14,7 +14,7 @@ Frontend developer focused on **Angular**, building responsive web interfaces wi
 ![RxJS](https://img.shields.io/badge/RxJS-B7178C?logo=reactivex&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
-![Angular Material](https://img.shields.io/badge/Angular%20Material-757575?logo=angular&logoColor=white)
+![Angular Material](https://img.shields.io/badge/Angular%20Material-757575?logo=angular-material&logoColor=white)
 ![PrimeNG](https://img.shields.io/badge/PrimeNG-DD0031?logo=primeng&logoColor=white)
 
 ## Featured Projects
